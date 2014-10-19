@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "terryware": {
+            "applicationId": "Ig1obxPL8urC3KUx7SxLUA5WvygdvwZuFcEvp3zq", 
+            "masterKey": "3qB5nGgmZX2BfBSfaEWZW6VwJk3oZ3yIqrKw1oDT"
+        }, 
+        "_default": {
+            "link": "terryware"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
